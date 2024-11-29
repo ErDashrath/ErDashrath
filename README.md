@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Dashrath
-- 👀 I’m interested in money..
-- 🌱 I’m currently learning backend devlopment
-- 💞️ I’m looking to collaborate.
+👋 Hi, I’m Dashrath!
+💡 Passionate about technology and growth.
+💻 Currently learning: Backend development (focusing on creating robust, scalable applications).
+💼 Interested in: Financial technology, coding, and solving real-world problems.
+🤝 Looking to collaborate: On exciting projects where I can learn, contribute, and grow as a developer.
 
-
-<!---
-ErDashrath/ErDashrath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let’s connect and create something amazing together! 🚀
