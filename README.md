@@ -2,8 +2,6 @@
 
 ### 🎓 4th-year Computer Engineering student | Backend Developer
 
-//<img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/71dc7f8a0efb78bd6df7aeb7f5c10a8b.png" width="300" />
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ErDashrath&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
